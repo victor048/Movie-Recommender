@@ -7,4 +7,4 @@ dataset: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 2- Traga os arquivos para pasta do projeto app.py
 
-3- realize o download dos pacotes utilizados no python
+3- realize os download dos pacotes utilizados no python
